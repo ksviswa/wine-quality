@@ -25,5 +25,5 @@ Features
 10 - sulphates 
 11 - alcohol 
 
-Target variable¶
+Target variable
 12 - quality (score between 0 and 10)
